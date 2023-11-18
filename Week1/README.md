@@ -1,3 +1,6 @@
+#   Question 1.
+
+
 ![image](https://github.com/cavadibrahimli1/sct_hw/assets/76445357/a8064085-f364-44b7-9da7-d270f9a755bb)
 
 
