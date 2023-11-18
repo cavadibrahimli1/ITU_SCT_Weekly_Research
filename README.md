@@ -1,4 +1,5 @@
-![Logo](![image](https://github.com/cavadibrahimli1/sct_hw/assets/76445357/b20d605e-5b4b-45cc-a8d7-be453806f18c))
+![image](https://github.com/cavadibrahimli1/sct_hw/assets/76445357/9ce87e9f-aef5-45a0-966d-db07a36904a5)
+
 
 
 
