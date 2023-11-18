@@ -101,3 +101,110 @@ The Region enum is used to represent different regions in 3D space, including th
 }
 
 ```
+
+# Question 2. 
+
+![image](https://github.com/cavadibrahimli1/sct_hw/assets/76445357/1827e9b6-c73d-4bb3-85b7-84858179ca78)
+
+
+
+# Simple Calculator in C++
+This is a simple calculator program implemented in C++ that allows users to perform basic arithmetic operations. The program includes error handling for invalid inputs and division/modulus by zero. It provides a user-friendly interface through the terminal.
+
+Files
+Calculator.h: Header file containing the declaration of the Calculator class.
+
+## Structure Definition
+
+```cpp
+#ifndef CALCULATOR_H
+#define CALCULATOR_H
+
+class Calculator {
+public:
+    float addition(float a, float b);
+    float subtraction(float a, float b);
+    float multiplication(float a, float b);
+    float division(float a, float b);
+    float square(float a);
+    float exponentiation(float base, float exponent);
+    float modulus(float a, float b);
+};
+
+#endif // CALCULATOR_H
+
+```
+
+## Calculator.cpp:
+ Implementation file containing the definition of the methods of the Calculator class.
+
+```cpp
+#include "Calculator.h"
+
+float Calculator::addition(float a, float b) {
+    return a + b;
+}
+
+// ... (similar definitions for other methods)
+
+```
+
+## main.cpp: 
+Main file where the user interacts with the calculator through the terminal.
+
+
+```cpp
+#include <iostream>
+#include <limits> // for numeric_limits
+#include "Calculator.h"
+
+int main() {
+    // ... (main function code)
+}
+
+```
+
+## Building and Running
+To compile and run the program, you can use a C++ compiler. For example, using g++, you can use the following commands:
+
+```cpp
+g++ Calculator.cpp main.cpp -o calculator
+./calculator
+```
+
+## Features
+The calculator supports the following operations:
+
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division (with error handling for division by zero)
+5. Square
+6. Exponentiation
+7. Modulus (with error handling for modulus by zero)
+9. Exit
+
+## Usage
+- Run the program.
+- Choose an operation by entering the corresponding number (1-8).
+- Follow the prompts to enter the required numbers for the chosen operation.
+- View the result.
+- The program allows multiple calculations in one session without exiting. To exit, choose option 8.
+
+## Error Handling
+The program includes error handling for:
+
+- Invalid user inputs (non-numeric input).
+- Division by zero.
+- Modulus by zero.
+- Any errors encountered during calculations will be displayed, and the user can continue - with additional calculations.
+
+## Future development plan:
+1. Implement the Calculator class as a template class to support different numeric types.
+2. Enhance error messages for more informative user feedback.
+3. Add additional arithmetic operations or scientific functions.
+
+
+Feel free to contribute to the improvement of this simple calculator!
+
+
