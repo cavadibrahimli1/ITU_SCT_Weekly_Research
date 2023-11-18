@@ -11,14 +11,22 @@ The program generates all possible combinations of int, float, and double with l
 ## Variable Types
 The following variable types are explored in the program:
 
-- int
-- short
-- long
-- unsigned int
-- unsigned short
-- unsigned long
-- float
-- double
-- Fixed-Width Types
-
+- char                                        
+- wchar_t                                    
+- short                                       
+- int                                          
+- long                                         
+- long long                                   
+- float                                        
+- double                                       
+- long double                                 
+- bool                                         
+- bytesint8_t                  1                    
+- int16_t                                      
+- int32_t                                      
+- int64_t                                      
+- uint8_t                                      
+- uint16_t                                     
+- uint32_t                                     
+- uint64_t                                    
 The code also investigates fixed-width types such as int(N)_t and float(N)_t (e.g., int32_t). These types ensure a specific size, providing control over variable sizes.
