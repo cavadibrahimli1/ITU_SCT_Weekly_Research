@@ -1,5 +1,5 @@
-![image](https://github.com/cavadibrahimli1/sct_hw/assets/76445357/9ce87e9f-aef5-45a0-966d-db07a36904a5)
 
+![image](https://github.com/cavadibrahimli1/sct_hw/assets/76445357/bf4134d7-7111-48d5-99fd-ed0e28e30acd)
 
 
 
