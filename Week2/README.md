@@ -1,3 +1,5 @@
+![image](https://github.com/cavadibrahimli1/sct_hw/assets/76445357/9b9ccf77-76b5-44e5-98ef-a2b7e28176c6)
+
 # C++ Variable Types Exploration
 This C++ program explores various variable types, creating all possible combinations of int, float, and double with long, short, and unsigned keywords. The program prints sizes, pointers, and min/max values of the variables, along with an explanation of auto variables, const, and constexpr keywords.
 
