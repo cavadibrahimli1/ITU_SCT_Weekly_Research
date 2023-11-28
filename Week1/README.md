@@ -205,6 +205,7 @@ The program includes error handling for:
 3. Add additional arithmetic operations or scientific functions.
 
 
-Feel free to contribute to the improvement of this simple calculator!
+Feel free to contribute to the improvement of this simple calculator project!
+
 
 
