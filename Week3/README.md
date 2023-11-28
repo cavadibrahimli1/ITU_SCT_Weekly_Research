@@ -1,6 +1,6 @@
 ![image](https://github.com/cavadibrahimli1/sct_hw/assets/76445357/047d3245-b9a1-4ee1-bc64-f62cb0dc717f)
 
-# Understanding pointers in C++ 
+# Understanding Pointers in C++ 
 
 ## Before we start, you have to know:
 
