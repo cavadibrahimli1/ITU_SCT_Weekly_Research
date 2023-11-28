@@ -3,7 +3,7 @@
 
 
 
-# ITU SCT Research Assignment Solutions Repository
+# ITU Solar Car Team Weekly Research 
 
 Welcome to the Research Assignment Solutions repository! This repository houses solutions to various research assignments that were given within a specific time period. Whether you are a student looking for reference materials, a researcher interested in different approaches to similar problems, or an educator seeking inspiration for future assignments, this repository aims to provide a valuable resource.
 
