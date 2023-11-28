@@ -787,4 +787,7 @@ int main() {
 
 ```
 
+### Output :
+![image](https://github.com/cavadibrahimli1/sct_hw/assets/76445357/7ffce9ff-562f-453f-aa26-998b8e664d2b)
+
 
